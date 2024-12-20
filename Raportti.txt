@@ -1,0 +1,7 @@
+1. Seurasin "https://gohugo.io/getting-started/quick-start/" ohjeita, miten pääsee sivuston kanssa alkuun.
+
+2. Kun olin saanut tehtyä Hugo sivun, tein puurakenteen siitä, mistä tiedostot lötyvät "content" kansioon.
+
+3. sitten kun olin saanut kansiorakenteen tehtyä, katsoin erikseen jokaisesta scribe ohjeesta, mihin osioon se kuuluu ja lisäsin scribe ohjeita .md muodossa content kansioon, käyttäen komentoa: "hugo new content content/''/*kansio(t)/../*/"ohjeen-nimi.md".
+
+4. Kun tiedosto oli lisätty, kopioin ohjeen md:muodossa.
